@@ -4,9 +4,7 @@
 
 This repo contains both the **mobile app** and its **marketing landing page**.
 
-<p align="center">
-  <img src="./marketing-banner.png" alt="Due Bill app preview" width="600" />
-</p>
+## [Visit For download APK](https://jahid757.github.io/baki-apk)
 
 ---
 
